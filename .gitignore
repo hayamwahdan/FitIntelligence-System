@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Operating System
+.DS_Store
+Thumbs.db
