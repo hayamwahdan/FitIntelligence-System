@@ -38,3 +38,17 @@ This system implements a complete machine learning lifecycle to analyze human ph
 ## 📜 Academic Integrity Declaration
 AI tools were used to assist in code development and report writing. All analysis, interpretation, and decisions are the original work of the team.
 
+📧 Email: hayamm.wahdan@gmail.com
+🔗 LinkedIn: Hayam Wahdan
+
+📧 Email: huda.elhamahmy@gmail.com
+🔗 LinkedIn: Hoda Elhamahmy
+
+📧 Email: roaaezzawy@gmail.com
+🔗 LinkedIn: Esraa Al-Azzawy
+
+📧 Email: nada.fahmy2244@gmail.com
+🔗 LinkedIn: Nada Fahmy
+
+📧 Email: esraashawky09@gmail.com
+🔗 LinkedIn: Esraa Mahmoud
