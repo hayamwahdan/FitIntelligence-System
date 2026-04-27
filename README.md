@@ -38,6 +38,10 @@ This system implements a complete machine learning lifecycle to analyze human ph
 ## 📜 Academic Integrity Declaration
 AI tools were used to assist in code development and report writing. All analysis, interpretation, and decisions are the original work of the team.
 
+## 📬 Contact
+
+If you have any questions or suggestions, feel free to reach out or open an issue.
+
 📧 **Email:** [hayamm.wahdan@gmail.com](mailto:hayamm.wahdan@gmail.com)  
 🔗 **LinkedIn:** [Hayam Wahdan](https://www.linkedin.com/in/hayamwahdan/)
 
